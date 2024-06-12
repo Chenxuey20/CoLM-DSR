@@ -1,5 +1,7 @@
 
-<center><font size=4>(Submitted on Interspeech 2024)</font></center>
+<center><font size=4>(Accepted by Interspeech 2024)</font></center>
+
+<center> <b><font size=4>Authors</font></b>: <i><font size=4>Xueyuan Chen, Dongchao Yang, Dingdong Wang, Xixin Wu, Zhiyong Wu, Helen Meng</font></i> </center>
 
 
 ## 1. Abstract
